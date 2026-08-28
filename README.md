@@ -32,14 +32,14 @@ O dashboard foi construído a partir de uma base de dados estruturada em múltip
 ## 2. Análise de Vendas
 
 
-![Análise de Vendas](Imagens/02_analise_vendas.png)
+![Análise de Vendas](Imagens/02_analise_de_vendas.png)
 
 ---
 
 ## 3. Análise de Produtos
 
 
-![Análise de Produtos](Imagens/03_analise_produtos.png)
+![Análise de Produtos](Imagens/03_analise_de_produtos.png)
 
 ---
 
